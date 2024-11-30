@@ -38,7 +38,7 @@
             class="px-4 py-2 text-gray-700 hover:text-primary focus:outline-none sm:hidden"
             ref="hamburgerButton"
           >
-            <i class="fas fa-bars text-white"></i>
+            <i class="fas fa-bars text-white text-2xl"></i>
           </button>
 
           <!-- Dropdown Menu -->
