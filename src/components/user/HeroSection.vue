@@ -10,7 +10,7 @@
     >
       <!-- Overlay -->
 
-      <div class="absolute inset-0 bg-primary opacity-65"></div>
+      <div class="absolute inset-0 bg-black opacity-65"></div>
       <!-- <Navbar /> -->
       <!-- Hero Content -->
       <div
