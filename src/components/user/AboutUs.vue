@@ -1,6 +1,6 @@
 <template>
-    <section id="about-us" class="h-screen flex justify-center p-5">
-      <div class="min-w-full p-8 rounded overflow-hidden shadow-lg">
+    <section id="about-us" class="flex justify-center p-5">
+      <div class="min-w-full p-8 rounded shadow-lg">
         <div class="container mx-auto md:px-12 md:py-8">
           <div class="flex flex-col lg:flex-row items-center lg:items-start" data-aos="fade-up">
             <div class="lg:w-1/2 lg:pr-8">
@@ -14,7 +14,7 @@
             <div class="lg:w-1/2 mt-8 lg:mt-0">
               <img
                 alt="Students in a classroom attentively listening to a lecture"
-                class="w-96 rounded mx-auto"
+                class="w-96 h-auto rounded mx-auto"
                 src="https://storage.googleapis.com/a1aa/image/hkOizw3pV66HBNwFC2mykyeFbaQWdnn0g190Kve8ekaTpcsnA.jpg"
               />
             </div>
@@ -24,13 +24,13 @@
     </section>
   </template>
   
-
-<script>
-export default {
-  setup() {
-    return {};
-  },
-};
-</script>
-
-<style lang="scss" scoped></style>
+  <script>
+  export default {
+    setup() {
+      return {};
+    },
+  };
+  </script>
+  
+  <style lang="scss" scoped></style>
+  

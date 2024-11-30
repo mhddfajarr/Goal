@@ -4,7 +4,7 @@
       :class="{'bg-transparent text-white border-b': isAtTop, 'bg-primary border-b-2': !isAtTop}"
       class="text-white p-4 transition-all duration-300 sticky top-0 w-full z-50"
     > -->
-  <nav class="bg-black text-white py-4 px-10 md:px-12">
+  <nav class="bg-primary text-white py-4 px-10 md:px-12">
     <div class="container mx-auto flex justify-between items-center relative">
       <!-- Logo -->
       <a href="/">
@@ -19,7 +19,7 @@
             @click="scrollToSection"
             class="px-4 cursor-pointer py-2 font-semibold text-lg hover:bg-yellow-300 hover:rounded-md hover:text-black"
           >
-            Home
+            About Us
           </p>
         </li>
 
@@ -53,7 +53,7 @@
                   @click="scrollToSection"
                   class="block px-4 py-2 text-gray-700 hover:bg-gray-200 hover:rounded-t-md"
                 >
-                  Profile
+                  About Us
                 </p>
               </li>
               <li>
@@ -62,7 +62,7 @@
                   class="block px-4 py-2 text-gray-700 hover:bg-gray-200"
                   @click="closeDropdown"
                 >
-                  Save Jobs
+                  Program
                 </a>
               </li>
             </ul>

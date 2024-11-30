@@ -9,7 +9,7 @@
         <img
   alt="Google logo"
   class="mb-4 w-64"
-  src="https://upload.wikimedia.org/wikipedia/commons/2/29/Google_logo_2015.png"
+  src="../../assets/image/logo-goal.png"
 />
 
       </div>
