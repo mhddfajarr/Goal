@@ -32,7 +32,7 @@
               src="../../assets/image/1.png"
               width="300"
             />
-            <p class="text-xl font-semibold text-black">Practical Skill Class</p>
+            <p class="text-xl  text-black">Practical Skill Class</p>
           </div>
           <div class="text-center mb-10 bg-white rounded-sm p-3" data-aos="zoom-in"
           data-aos-duration="800">
@@ -43,7 +43,7 @@
               src="../../assets/image/2.png"
               width="300"
             />
-            <p class="text-xl font-semibold text-black">Success Story</p>
+            <p class="text-xl  text-black">Success Story</p>
           </div>
           <div class="text-center mb-10 bg-white rounded-sm p-3" data-aos="zoom-in"
           data-aos-duration="900">
@@ -54,7 +54,7 @@
               src="../../assets/image/3.png"
               width="300"
             />
-            <p class="text-xl font-semibold text-black">Company Visit</p>
+            <p class="text-xl  text-black">Company Visit</p>
           </div>
         </div>
       </div>

@@ -20,7 +20,7 @@
         <div class="border-t border-4 border-yellow-400 w-1/3 mb-3 mt-2"></div>
         <div class="mb-2 flex items-start">
           <i class="fas fa-map-marker-alt mr-2 mt-1"> </i>
-          <p>Berca Building, Jl. Abdul Muis no.62 Jakarta Pusat 10160</p>
+          <p>Goal Building, Jl. Abdul Muis no.62 Jakarta Pusat 10160</p>
         </div>
         <div class="mb-2 flex items-start">
           <i class="fas fa-phone-alt mr-2 mt-1"> </i>
@@ -32,7 +32,7 @@
         </div>
         <div class="mb-2 flex items-start">
           <i class="fas fa-envelope mr-2 mt-1"> </i>
-          <p>marketing@berca.co.id</p>
+          <p>marketing@Goal.co.id</p>
         </div>
       </div>
 
@@ -45,13 +45,10 @@
             <a class="hover:underline" href="#"> HOME </a>
           </li>
           <li class="mb-2 hover:font-bold">
-            <a
-              class="hover:underline"
-              href="https://www.berca.co.id/articles-and-news/"
-              target="_blank"
-            >
-              ARTICLES &amp; NEWS
-            </a>
+            <a class="hover:underline" href="#"> ABOUT US </a>
+          </li>
+          <li class="mb-2 hover:font-bold">
+            <a class="hover:underline" href="#"> PROGRAM </a>
           </li>
         </ul>
       </div>

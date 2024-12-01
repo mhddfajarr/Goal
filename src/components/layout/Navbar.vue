@@ -17,7 +17,7 @@
         <li class="hidden sm:block">
           <p
             @click="scrollToSection"
-            class="px-4 cursor-pointer py-2 font-semibold text-lg hover:bg-yellow-300 hover:rounded-md hover:text-black"
+            class="px-4 cursor-pointer py-2 hover:font-semibold text-lg hover:bg-yellow-300 hover:rounded-md hover:text-black"
           >
             About Us
           </p>
@@ -26,7 +26,7 @@
         <li class="hidden sm:block">
           <p
             @click="scrollToProgram"
-            class="px-4 cursor-pointer py-2 font-semibold text-lg hover:bg-yellow-300 hover:rounded-md hover:text-black"
+            class="px-4 cursor-pointer py-2 hover:font-semibold text-lg hover:bg-yellow-300 hover:rounded-md hover:text-black"
           >
             Program
           </p>

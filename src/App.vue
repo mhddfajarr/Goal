@@ -5,6 +5,7 @@
   <AboutUs/>
   <Program/>
   <Timeline/>
+  <ValueOffered/>
   <Footer/>
   </div>
 </template>
@@ -16,6 +17,7 @@ import Footer from './components/layout/Footer.vue';
 import AboutUs from './components/user/AboutUs.vue';
 import Program from './components/user/Program.vue';
 import Timeline from './components/user/Timeline.vue';
+import ValueOffered from './components/user/ValueOffered.vue';
 
 export default {
   name: 'App',
@@ -25,7 +27,8 @@ export default {
     Footer,
     AboutUs,
     Program,
-    Timeline
+    Timeline,
+    ValueOffered
     
   },
 };

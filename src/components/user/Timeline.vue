@@ -67,7 +67,7 @@
             ></div>
           </div>
           <div class="mt-3 sm:pe-8">
-            <h2 class="text-lg font-semibold text-yellow-300">Success Story</h2>
+            <h2 class="text-lg font-semibold text-yellow-300">Success Story:</h2>
             <ul
               class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
             >
@@ -182,11 +182,6 @@
               class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
             >
               <li>Multi-stakeholder meetings</li>
-              <li>Talent mapping</li>
-              <li>Intrapersonal skill</li>
-              <li>Interpersonal skill</li>
-              <li>Selected practical skill</li>
-              <li>Post-test</li>
             </ul>
           </div>
         </li>
@@ -240,7 +235,7 @@
               />
             </svg>
           </span>
-          <h2 class="text-lg font-semibold text-yellow-300">Success Story</h2>
+          <h2 class="text-lg font-semibold text-yellow-300">Success Story:</h2>
           <ul
             class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
           >
@@ -329,11 +324,6 @@
             class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
           >
             <li>Multi-stakeholder meetings</li>
-            <li>Talent mapping</li>
-            <li>Intrapersonal skill</li>
-            <li>Interpersonal skill</li>
-            <li>Selected practical skill</li>
-            <li>Post-test</li>
           </ul>
         </li>
       </ol>

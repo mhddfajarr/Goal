@@ -7,27 +7,18 @@
           data-aos="fade-up"
         >
           <div class="lg:w-1/2 lg:pl-20">
-            <h2 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">
+            <h3 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">
               About Goal
-            </h2>
+            </h3>
             <p class="mb-4 text-gray-700 text-base md:text-lg">
-              Goal is an educational organization dedicated to improving the
-              nation's quality of life by providing accessible and high-quality
-              learning opportunities. With a mission to empower individuals,
-              Goal offers three main programs: a comprehensive basic and
-              secondary education program aimed at academic excellence and
-              character development, a professional bootcamp designed to equip
-              individuals with in-demand skills for the workforce, and a global
-              leadership development program to cultivate future leaders with a
-              global perspective. Through these initiatives, Goal strives to
-              create a positive impact, nurturing well-rounded individuals who
-              can contribute to both national and global progress.
+              Goal is an educational organization focused on enhancing the nation's quality of life by providing accessible, high-quality learning. It offers three main programs: a basic and secondary education program for academic excellence and character development, a professional bootcamp for in-demand workforce skills, and a global leadership program to develop future leaders. Through these initiatives, Goal aims to nurture well-rounded individuals who contribute to national and global progress.
             </p>
           </div>
           <div class="lg:w-1/2 mt-8 lg:mt-0">
             <img
               alt="Students in a classroom attentively listening to a lecture"
-              class="w-96 h-auto rounded mx-auto"
+              class="h-auto rounded mx-auto"
+              width="350"
               src="https://storage.googleapis.com/a1aa/image/hkOizw3pV66HBNwFC2mykyeFbaQWdnn0g190Kve8ekaTpcsnA.jpg"
             />
           </div>
@@ -37,17 +28,17 @@
 
     <!-- MAIN MISSION -->
     <div
-      class="relative text-center shadow-lg py-10 px-4 sm:px-8 md:px-16 lg:px-64"
+      class="relative text-center shadow-lg py-16 px-16 sm:px-8 md:px-16 lg:px-64"
       :style="mainMissionStyle"
     >
       <!-- Overlay -->
-      <div class="absolute inset-0 bg-white opacity-20"></div>
+      <div class="absolute inset-0 bg-black opacity-40"></div>
       <!-- Content on top of overlay -->
       <div class="relative bg-primary p-6 rounded">
-        <h2 class="text-yellow-300 text-3xl sm:text-4xl font-bold mb-4">
-          MAIN MISSION
+        <h2 class="text-yellow-300 md:text-5xl text-3xl font-bold mb-4">
+          Main Mission
         </h2>
-        <h2 class="text-2xl sm:text-3xl text-white mb-4 font-semibold">
+        <h2 class="text-lg md:text-2xl  text-white mb-4 font-semibold">
           "To provide the incredible experience learning beyond education"
         </h2>
       </div>
@@ -57,15 +48,15 @@
   <div class="p-6 flex flex-col md:flex-row gap-12">
     <!-- Kolom "Why?" -->
     <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
-      <h2 class="text-4xl font-bold text-blue-900 text-center mb-6">Why?</h2>
+      <h3 class="text-4xl font-bold text-blue-900 text-center mb-6">Why?</h3>
       <p class="text-gray-600 text-xl text-center">
         Opportunity to be outstanding human capital should be for everyone
       </p>
     </div>
     <!-- Kolom "Problems" -->
     <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
-      <h2 class="text-4xl font-bold text-blue-900">Problems</h2>
-      <p class="text-gray-600 text-xl">
+      <h3 class="text-4xl font-bold text-blue-900  text-center">Problems</h3>
+      <p class="text-gray-600 text-lg">
         We’ve served over a hundred educational programs and counting, and the
         response remains the same:
         <br />
