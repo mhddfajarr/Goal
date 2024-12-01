@@ -2,7 +2,7 @@
   <section class="min-h-screen px-8 md:px-20 py-8">
     <div class="border p-4 shadow-lg">
       <div class="container mx-auto px-4 sm:px-8 lg:px-36 py-8">
-        <h3 class="text-center text-5xl font-semibold mb-10" data-aos="fade-right">
+        <h3 class="text-center text-3xl md:text-5xl font-semibold mb-10" data-aos="fade-right">
           Value offered for customers
         </h3>
 
@@ -10,10 +10,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-4" data-aos="fade-right">
           <div class="flex flex-col items-center justify-center">
             <div class="text-left">
-              <h2 class="text-2xl font-semibold mb-6">
+              <h2 class="text-xl md:text-2xl font-semibold mb-6">
                 Get hired fast with relevant skills
               </h2>
-              <p class="text-lg text-gray-600">
+              <p class="text-md md:text-lg text-gray-600">
                 Invest in self-development and transform into a better career
                 journey by unlocking various most needed skills for industries
                 without limitation and gain a competitive edge in today's
@@ -46,8 +46,8 @@
 
           <div class="flex flex-col items-center justify-center" >
             <div class="text-left">
-              <h2 class="text-2xl font-semibold mb-6">Clear future path</h2>
-              <p class="text-lg text-gray-600">
+              <h2 class="text-xl md:text-2xl font-semibold mb-6">Clear future path</h2>
+              <p class="text-md md:text-lg text-gray-600">
                 Take control of the future by understanding your inner
                 potential. Whether for job seeking purposes or starting a
                 business, our training will equip the participant with the most
@@ -72,10 +72,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8" data-aos="fade-right">
           <div class="flex flex-col items-center justify-center">
             <div class="text-left">
-              <h2 class="text-2xl font-semibold mb-6">
+              <h2 class="text-xl md:text-2xl font-semibold mb-6">
                 Bigger opportunity to go global
               </h2>
-              <p class="text-lg text-gray-600">
+              <p class="text-md md:text-lg text-gray-600">
                 Broaden Your Horizons, Transform Your Career. Immerse yourself
                 in diverse cultures and global business practices through
                 exclusive international immersive learning programs. Return home
