@@ -56,14 +56,14 @@
     <div class="p-8 md:px-28 md:py-12 bg-white">
   <div class="p-6 flex flex-col md:flex-row gap-12">
     <!-- Kolom "Why?" -->
-    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-right">
+    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
       <h3 class="text-4xl font-bold text-blue-900 text-center mb-6">Why?</h3>
       <p class="text-gray-600 text-xl text-center">
         Opportunity to be outstanding human capital should be for everyone
       </p>
     </div>
     <!-- Kolom "Problems" -->
-    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-left">
+    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
       <h3 class="text-4xl font-bold text-blue-900">Problems</h3>
       <p class="text-gray-600 text-xl">
         We’ve served over a hundred educational programs and counting, and the
