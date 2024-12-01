@@ -1,13 +1,9 @@
 <template>
   <div>
-    <section
-      class="relative w-full h-screen bg-center"
+    <section class="relative w-full h-screen bg-center bg-cover"
       :style="{
         backgroundImage: 'url(' + imageUrl + ')',
-        backgroundRepeat: 'no-repeat',
-        backgroundPosition: 'center',
-      }"
-    >
+      }">
       <!-- Overlay -->
 
       <div class="absolute inset-0 bg-black opacity-65"></div>

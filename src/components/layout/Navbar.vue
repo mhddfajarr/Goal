@@ -24,11 +24,12 @@
         </li>
 
         <li class="hidden sm:block">
-          <a
-            href="/saveJobs"
-            class="px-4 py-2 font-semibold text-lg hover:text-yellow-300"
-            >Program</a
+          <p
+            @click="scrollToProgram"
+            class="px-4 cursor-pointer py-2 font-semibold text-lg hover:bg-yellow-300 hover:rounded-md hover:text-black"
           >
+            Program
+          </p>
         </li>
 
         <!-- Dropdown -->
@@ -57,13 +58,12 @@
                 </p>
               </li>
               <li>
-                <a
-                  href="/saveJobs"
-                  class="block px-4 py-2 text-gray-700 hover:bg-gray-200"
-                  @click="closeDropdown"
+                <p
+                  @click="scrollToProgram"
+                  class="block px-4 py-2 text-gray-700 hover:bg-gray-200 hover:rounded-t-md"
                 >
                   Program
-                </a>
+                </p>
               </li>
             </ul>
           </div>
@@ -87,6 +87,13 @@ export default {
     const scrollToSection = () => {
       closeDropdown();
       const section = document.getElementById("about-us");
+      if (section) {
+        section.scrollIntoView({ behavior: "smooth" });
+      }
+    };
+    const scrollToProgram = () => {
+      closeDropdown();
+      const section = document.getElementById("program");
       if (section) {
         section.scrollIntoView({ behavior: "smooth" });
       }
@@ -139,6 +146,7 @@ export default {
       hamburgerButton,
       isAtTop,
       scrollToSection,
+      scrollToProgram
     };
   },
 };
