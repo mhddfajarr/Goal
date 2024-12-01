@@ -13,8 +13,7 @@
         class="absolute inset-0 flex flex-col items-center pt-72 px-7 xl:pt-32"
       >
         <div class="text-left" data-aos="fade-right" data-aos-duration="1000">
-          <h3 class="text-7xl md:text-7xl font-bold text-yellow-400">GOAL</h3>
-          <h3 class="text-4xl md:text-6xl font-bold text-white mt-2">
+          <h3 class="text-4xl md:text-7xl font-bold text-yellow-400 mt-2">
            GOING GlOBAL
           </h3>
           <p class="text-white text-lg md:text-xl mt-4 max-w-2xl">
