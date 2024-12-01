@@ -2,7 +2,6 @@
   <div>
   <Navbar/>
  <HeroSection/>
-
   <AboutUs/>
   <Footer/>
   </div>

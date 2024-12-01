@@ -7,7 +7,9 @@
           data-aos="fade-up"
         >
           <div class="lg:w-1/2 lg:pl-20">
-            <h3 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">About Goal</h3>
+            <h3 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">
+              About Goal
+            </h3>
             <p class="mb-4 text-gray-700 text-base md:text-lg">
               Goal is an educational organization dedicated to improving the
               nation's quality of life by providing accessible and high-quality
@@ -42,12 +44,38 @@
       <div class="absolute inset-0 bg-white opacity-20"></div>
       <!-- Content on top of overlay -->
       <div class="relative bg-primary p-6 rounded">
-        <h3 class="text-yellow-300 text-3xl sm:text-4xl font-bold mb-4">MAIN MISSION</h3>
+        <h3 class="text-yellow-300 text-3xl sm:text-4xl font-bold mb-4">
+          MAIN MISSION
+        </h3>
         <h3 class="text-2xl sm:text-3xl text-white mb-4 font-semibold">
           "To provide the incredible experience learning beyond education"
         </h3>
       </div>
     </div>
+
+    <div class="p-8 md:px-28 md:py-12 bg-white">
+  <div class="p-6 flex flex-col md:flex-row gap-12">
+    <!-- Kolom "Why?" -->
+    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-right">
+      <h3 class="text-4xl font-bold text-blue-900 text-center mb-6">Why?</h3>
+      <p class="text-gray-600 text-xl text-center">
+        Opportunity to be outstanding human capital should be for everyone
+      </p>
+    </div>
+    <!-- Kolom "Problems" -->
+    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-left">
+      <h3 class="text-4xl font-bold text-blue-900">Problems</h3>
+      <p class="text-gray-600 text-xl">
+        We’ve served over a hundred educational programs and counting, and the
+        response remains the same:
+        <br />
+        the call for more relevant skillset needed by the market beyond the university
+        curriculum.
+      </p>
+    </div>
+  </div>
+</div>
+
   </section>
 </template>
 
@@ -75,5 +103,4 @@ export default {
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>

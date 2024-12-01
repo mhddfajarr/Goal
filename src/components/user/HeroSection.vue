@@ -21,7 +21,7 @@
           <h2 class="text-4xl md:text-6xl font-bold text-white mt-2">
            GOING GlOBAL
           </h2>
-          <p class="text-tosca text-lg md:text-xl mt-4 max-w-2xl">
+          <p class="text-white text-lg md:text-xl mt-4 max-w-2xl">
             Preparing Brighter and More Innovative Human Capital to Shape a Better and Sustainable Future
           </p>
         </div>
