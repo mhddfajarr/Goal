@@ -1,11 +1,11 @@
 <template>
   <section class="min-h-screen px-8 md:px-20 py-8">
     <div class="border p-4 shadow-lg">
-      <div class="container mx-auto px-4 sm:px-8 lg:px-36 py-8">
-        <h3 class="text-center text-3xl md:text-5xl font-semibold mb-10" data-aos="fade-right">
+      <div class="container mx-auto px-4 sm:px-8 lg:px-36 py-8 ">
+        <h3 class="text-center text-3xl md:text-4xl font-semibold mb-3 md:mb-10" data-aos="fade-right">
           Value offered for customers
         </h3>
-
+        <div class="border block md:hidden border-black mb-10"></div>
         <!-- Baris pertama -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-4" data-aos="fade-right">
           <div class="flex flex-col items-center justify-center">
