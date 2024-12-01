@@ -9,10 +9,10 @@
         <li class="relative mb-6 sm:mb-0">
           <div class="flex items-center">
             <div
-              class="z-10 flex items-center justify-center w-8 h-8 bg-blue-100 rounded-full dark:bg-tosca shrink-0"
+              class="z-10 flex items-center justify-center w-8 h-8 bg-tosca rounded-full shrink-0"
             >
               <svg
-                class="w-2.5 h-2.5 text-blue-800 dark:text-black"
+                class="w-2.5 h-2.5 text-black"
                 aria-hidden="true"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
@@ -24,7 +24,7 @@
               </svg>
             </div>
             <div
-              class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"
+              class="hidden sm:flex w-full bg-gray-500 h-0.5 "
             ></div>
           </div>
           <div class="mt-3 sm:pe-8">
@@ -34,7 +34,7 @@
               >Released on December 2, 2021</time
             > -->
             <ul
-              class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+              class="list-disc pl-5 text-base font-normal text-gray-50"
             >
               <li>Pre-test</li>
               <li>Talent mapping</li>
@@ -48,10 +48,10 @@
         <li class="relative mb-6 sm:mb-0">
           <div class="flex items-center">
             <div
-              class="z-10 flex items-center justify-center w-8 h-8 bg-blue-100 rounded-full dark:bg-tosca shrink-0"
+              class="z-10 flex items-center justify-center w-8 h-8  rounded-full bg-tosca shrink-0"
             >
               <svg
-                class="w-2.5 h-2.5 text-yellow-300 dark:text-black"
+                class="w-2.5 h-2.5 text-black"
                 aria-hidden="true"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
@@ -63,13 +63,13 @@
               </svg>
             </div>
             <div
-              class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"
+              class="hidden sm:flex w-full  h-0.5 bg-gray-500"
             ></div>
           </div>
           <div class="mt-3 sm:pe-8">
             <h2 class="text-lg font-semibold text-yellow-300">Success Story:</h2>
             <ul
-              class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+              class="list-disc pl-5 text-base font-normal text-gray-50"
             >
               <li>Meet The Expert</li>
               <li>CEO Talk</li>
@@ -82,10 +82,10 @@
         <li class="relative mb-6 sm:mb-0">
           <div class="flex items-center">
             <div
-              class="z-10 flex items-center justify-center w-8 h-8 bg-blue-100 rounded-full dark:bg-tosca shrink-0"
+              class="z-10 flex items-center justify-center w-8 h-8  rounded-full bg-tosca shrink-0"
             >
               <svg
-                class="w-2.5 h-2.5 text-blue-800 dark:text-black"
+                class="w-2.5 h-2.5  text-black"
                 aria-hidden="true"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
@@ -97,17 +97,17 @@
               </svg>
             </div>
             <div
-              class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"
+              class="hidden sm:flex w-full  h-0.5 bg-gray-500"
             ></div>
           </div>
           <div class="mt-3 sm:pe-8">
             <h2
-              class="text-lg font-semibold text-gray-900 dark:text-yellow-300"
+              class="text-lg font-semibold  text-yellow-300"
             >
               Site Visite:
             </h2>
             <ul
-              class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+              class="list-disc pl-5 text-base font-normal text-gray-50"
             >
               <li>Government</li>
               <li>Specific Industries/Companies</li>
@@ -118,10 +118,10 @@
         <li class="relative mb-6 sm:mb-0">
           <div class="flex items-center">
             <div
-              class="z-10 flex items-center justify-center w-8 h-8 bg-blue-100 rounded-full dark:bg-tosca shrink-0"
+              class="z-10 flex items-center justify-center w-8 h-8  rounded-full bg-tosca shrink-0"
             >
               <svg
-                class="w-2.5 h-2.5 text-blue-800 dark:text-black"
+                class="w-2.5 h-2.5  text-black"
                 aria-hidden="true"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
@@ -133,17 +133,17 @@
               </svg>
             </div>
             <div
-              class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"
+              class="hidden sm:flex w-full  h-0.5 bg-gray-500"
             ></div>
           </div>
           <div class="mt-3 sm:pe-8">
             <h2
-              class="text-lg font-semibold text-gray-900 dark:text-yellow-300"
+              class="text-lg font-semibold  text-yellow-300"
             >
               Special Program (Optional):
             </h2>
             <ul
-              class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+              class="list-disc pl-5 text-base font-normal  text-gray-50"
             >
               <li>Immersive Learning Abroad (Study Tour)</li>
               <li>Global Volunteer</li>
@@ -154,10 +154,10 @@
         <li class="relative mb-6 sm:mb-0">
           <div class="flex items-center">
             <div
-              class="z-10 flex items-center justify-center w-8 h-8 bg-blue-100 rounded-full dark:bg-tosca shrink-0"
+              class="z-10 flex items-center justify-center w-8 h-8 rounded-full bg-tosca shrink-0"
             >
               <svg
-                class="w-2.5 h-2.5 text-blue-800 dark:text-black"
+                class="w-2.5 h-2.5 text-black"
                 aria-hidden="true"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="currentColor"
@@ -169,17 +169,17 @@
               </svg>
             </div>
             <div
-              class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"
+              class="hidden sm:flex w-full  h-0.5 bg-gray-500"
             ></div>
           </div>
           <div class="mt-3 sm:pe-8">
             <h2
-              class="text-lg font-semibold text-gray-900 dark:text-yellow-300"
+              class="text-lg font-semibold  text-yellow-300"
             >
-              Evaluation and Feedback:
+            Feedback &amp; Evaluation:
             </h2>
             <ul
-              class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+              class="list-disc pl-5 text-base font-normal text-whitetext-gray-50"
             >
               <li>Multi-stakeholder meetings</li>
             </ul>
@@ -188,14 +188,14 @@
       </ol>
       <!-- ukuran mobile -->
       <ol
-        class="block md:hidden relative border-s border-gray-200 dark:border-gray-700" data-aos="fade-up"
+        class="block md:hidden relative border-s border-gray-500" data-aos="fade-up"
       >
         <li class="mb-10 ms-6" >
           <span
-            class="absolute flex items-center justify-center w-6 h-6 bg-yellow-300 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-tosca"
-          >
+  class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 bg-tosca"
+>
             <svg
-              class="w-2.5 h-2.5 text-white dark:text-black"
+              class="w-2.5 h-2.5 text-black"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -209,7 +209,7 @@
 
           <h2 class="text-lg font-semibold text-yellow-300">Classroom:</h2>
           <ul
-            class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+            class="list-disc pl-5 text-base font-normal text-gray-50"
           >
             <li>Pre-test</li>
             <li>Talent mapping</li>
@@ -221,10 +221,10 @@
         </li>
         <li class="mb-10 ms-6">
           <span
-            class="absolute flex items-center justify-center w-6 h-6 bg-yellow-300 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-tosca"
+            class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 bg-tosca"
           >
             <svg
-              class="w-2.5 h-2.5 text-white dark:text-black"
+              class="w-2.5 h-2.5 text-black"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -237,7 +237,7 @@
           </span>
           <h2 class="text-lg font-semibold text-yellow-300">Success Story:</h2>
           <ul
-            class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+            class="list-disc pl-5 text-base font-normal text-gray-50"
           >
             <li>Meet The Expert</li>
             <li>CEO Talk</li>
@@ -249,10 +249,10 @@
         </li>
         <li class="mb-10 ms-6">
           <span
-            class="absolute flex items-center justify-center w-6 h-6 bg-yellow-300 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-tosca"
+            class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 bg-tosca"
           >
             <svg
-              class="w-2.5 h-2.5 text-white dark:text-black"
+              class="w-2.5 h-2.5 text-black"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -263,11 +263,11 @@
               />
             </svg>
           </span>
-          <h2 class="text-lg font-semibold text-gray-900 dark:text-yellow-300">
+          <h2 class="text-lg font-semibold text-yellow-300">
             Site Visite:
           </h2>
           <ul
-            class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+            class="list-disc pl-5 text-base font-normal text-gray-50"
           >
             <li>Government</li>
             <li>Specific Industries/Companies</li>
@@ -276,10 +276,10 @@
         </li>
         <li class="mb-10 ms-6">
           <span
-            class="absolute flex items-center justify-center w-6 h-6 bg-yellow-300 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-tosca"
+            class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 bg-tosca"
           >
             <svg
-              class="w-2.5 h-2.5 text-white dark:text-black"
+              class="w-2.5 h-2.5 text-black"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -290,11 +290,11 @@
               />
             </svg>
           </span>
-          <h2 class="text-lg font-semibold text-gray-900 dark:text-yellow-300">
+          <h2 class="text-lg font-semibold text-yellow-300">
             Special Program (Optional):
           </h2>
           <ul
-            class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+            class="list-disc pl-5 text-base font-normal text-gray-50"
           >
             <li>Immersive Learning Abroad (Study Tour)</li>
             <li>Global Volunteer</li>
@@ -303,10 +303,10 @@
         </li>
         <li class="ms-6">
           <span
-            class="absolute flex items-center justify-center w-6 h-6 bg-yellow-300 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-tosca"
+            class="absolute flex items-center justify-center w-6 h-6 rounded-full -start-3 bg-tosca"
           >
             <svg
-              class="w-2.5 h-2.5 text-white dark:text-black"
+              class="w-2.5 h-2.5 text-black"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -317,11 +317,11 @@
               />
             </svg>
           </span>
-          <h2 class="text-lg font-semibold text-gray-900 dark:text-yellow-300">
-            Evaluation and Feedback:
+          <h2 class="text-lg font-semibold text-yellow-300">
+            Feedback &amp; Evaluation:
           </h2>
           <ul
-            class="list-disc pl-5 text-base font-normal text-white dark:text-gray-50"
+            class="list-disc pl-5 text-base font-normal text-gray-50"
           >
             <li>Multi-stakeholder meetings</li>
           </ul>
