@@ -9,7 +9,8 @@ export default {
       colors: {
         primary: '#081e40',
         primaryHover: '#1d6fa5',
-        mainContent: '#ededed'
+        mainContent: '#ededed',
+        tosca: '#3edad8'
       },
     },
      

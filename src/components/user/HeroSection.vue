@@ -19,11 +19,10 @@
         <div class="text-left" data-aos="fade-right" data-aos-duration="1000">
           <h1 class="text-7xl md:text-7xl font-bold text-yellow-400">GOAL</h1>
           <h2 class="text-4xl md:text-6xl font-bold text-white mt-2">
-            BE UNSTOPPABLE.
+           GOING GlOBAL
           </h2>
-          <p class="text-white text-lg md:text-xl mt-4 max-w-2xl">
-            The next chapter of this success story starts here—your story and
-            ours.
+          <p class="text-tosca text-lg md:text-xl mt-4 max-w-2xl">
+            Preparing Brighter and More Innovative Human Capital to Shape a Better and Sustainable Future
           </p>
         </div>
       </div>
