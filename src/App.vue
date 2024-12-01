@@ -1,9 +1,10 @@
 <template>
   <div>
   <Navbar/>
- <HeroSection/>
+  <HeroSection/>
   <AboutUs/>
   <Program/>
+  <Timeline/>
   <Footer/>
   </div>
 </template>
@@ -14,6 +15,7 @@ import Navbar from './components/layout/Navbar.vue';
 import Footer from './components/layout/Footer.vue';
 import AboutUs from './components/user/AboutUs.vue';
 import Program from './components/user/Program.vue';
+import Timeline from './components/user/Timeline.vue';
 
 export default {
   name: 'App',
@@ -22,7 +24,8 @@ export default {
     Navbar,
     Footer,
     AboutUs,
-    Program
+    Program,
+    Timeline
     
   },
 };

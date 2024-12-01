@@ -46,7 +46,7 @@
             <p class="text-xl font-semibold text-black">Success Story</p>
           </div>
           <div class="text-center mb-10 bg-white rounded-sm p-3" data-aos="zoom-in"
-          data-aos-duration="1000">
+          data-aos-duration="900">
             <img
               alt="Company visit with a large machine on display"
               class="w-72 h-48 object-cover mb-2"
