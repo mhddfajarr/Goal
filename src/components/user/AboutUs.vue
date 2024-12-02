@@ -25,7 +25,6 @@
         </div>
       </div>
     </div>
-
     <!-- MAIN MISSION -->
     <div
       class="relative text-center shadow-lg py-16 px-16 sm:px-8 md:px-16 lg:px-64"
