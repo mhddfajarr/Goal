@@ -1,6 +1,6 @@
 <template>
     <section
-      id="program1"
+      id="program"
       class="relative w-full bg-center bg-cover"
       :style="{ backgroundImage: 'url(' + imageUrl + ')' }"
     >
