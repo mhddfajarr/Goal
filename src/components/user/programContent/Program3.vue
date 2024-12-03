@@ -22,12 +22,12 @@
         <div class="border-b-2 border-white mb-6 py-2 w-1/2" data-aos="fade-up"></div>
   
         <!-- Gambar dan deskripsi -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <!-- Baris pertama dengan 2 kolom, gambar rata tengah -->
           <div
             v-for="(item, index) in firstRowImages"
             :key="'first-row-' + index"
-            class="text-center mb-10 bg-white rounded-sm p-3 flex flex-col items-center"
+            class="text-center  bg-white rounded-sm p-3 flex flex-col items-center"
             data-aos="zoom-in"
           >
             <img
@@ -42,7 +42,7 @@
         </div>
   
         <!-- Baris kedua (sudah benar) -->
-        <div class="grid grid-cols-2 justify-center gap-8 mt-8">
+        <div class="grid grid-cols-1  md:grid-cols-3 gap-8">
           <div
             v-for="(item, index) in secondRowImages"
             :key="'second-row-' + index"

@@ -23,7 +23,7 @@
         <!-- Gambar dan deskripsi (2 gambar di baris pertama, 1 gambar di baris kedua, 2 gambar di baris ketiga) -->
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8 mb-16">
           <!-- Gambar pertama -->
-          <div class="text-center mb-10 bg-white rounded-sm p-3" data-aos="zoom-in">
+          <div class="text-center  bg-white rounded-sm p-3" data-aos="zoom-in">
             <img
               alt="Classroom with students and a presentation on the screen"
               class="w-72 h-48 object-cover mb-2"
@@ -34,7 +34,7 @@
             <p class="text-xl text-black">Practical Skill Class</p>
           </div>
           <!-- Gambar kedua -->
-          <div class="text-center mb-10 bg-white rounded-sm p-3" data-aos="zoom-in" data-aos-duration="600">
+          <div class="text-center  bg-white rounded-sm p-3" data-aos="zoom-in" data-aos-duration="600">
             <img
               alt="Person giving a presentation with a JCB logo on the screen"
               class="w-72 h-48 object-cover mb-2"
@@ -45,7 +45,7 @@
             <p class="text-xl text-black">Success Storying</p>
           </div>
           <!-- Gambar ketiga -->
-          <div class="text-center mb-10 bg-white rounded-sm p-3" data-aos="zoom-in" data-aos-duration="600">
+          <div class="text-center  bg-white rounded-sm p-3" data-aos="zoom-in" data-aos-duration="600">
             <img
               alt="Company visit with a large machine on display"
               class="w-72 h-48 object-cover mb-2"
