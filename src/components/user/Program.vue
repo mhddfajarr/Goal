@@ -33,8 +33,8 @@
   import 'swiper/css/navigation';
   import 'swiper/css/pagination';
   import Program1 from './programContent/Program1.vue';
-  import Program2 from './programContent/Program3.vue';
-  import Program3 from './programContent/Program2.vue';
+  import Program2 from './programContent/Program2.vue';
+  import Program3 from './programContent/Program3.vue';
 
   // Import required modules
   import { Navigation, Pagination } from 'swiper/modules';
