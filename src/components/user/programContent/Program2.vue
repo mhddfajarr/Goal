@@ -9,7 +9,7 @@
       
       <!-- Konten section -->
       <div class="relative flex flex-col items-center text-center px-8 py-10">
-        <h2 class="text-teal-400 text-2xl mb-2" data-aos="fade-up">What makes us unique?</h2>
+        <h2 class="text-teal-400 text-2xl mb-2" data-aos="fade-up">The Solution</h2>
   
         <div class="border-b-2 border-white mb-6 py-2 w-1/2" data-aos="fade-up"></div>
   
