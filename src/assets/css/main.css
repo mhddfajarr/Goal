@@ -48,4 +48,10 @@ body {
     color: yellow !important; /* Warna kuning untuk ikon previous */
   }
   
+  @media (max-width: 767px) {
+    .swiper-button-next,
+    .swiper-button-prev {
+      display: none !important; /* Sembunyikan tombol pada layar kecil */
+    }
+  }
   
