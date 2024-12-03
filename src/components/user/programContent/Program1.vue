@@ -27,9 +27,7 @@
             <img
               alt="Classroom with students and a presentation on the screen"
               class="w-72 h-48 object-cover mb-2"
-              height="200"
               src="../../../assets/image/1.png"
-              width="300"
             />
             <p class="text-xl text-black">Practical Skill Class</p>
           </div>

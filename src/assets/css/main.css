@@ -5,6 +5,47 @@
 body {
     font-family: 'Libre Franklin';
 }
-/* h3 {
-    font-family: 'Rajdhani'
-} */
+
+/* Mengatur warna bullet pagination dengan kelas kustom */
+.swiper-pagination-bullet {
+    background-color: white !important; /* Warna putih untuk bullet pagination */
+  }
+  
+  /* Mengatur warna bullet pagination yang aktif dengan kelas kustom */
+  .swiper-pagination-bullet-active {
+    background-color: yellow !important; /* Warna kuning untuk bullet pagination aktif */
+  }
+  
+  /* Mengatur opacity bullet pagination yang tidak aktif dengan kelas kustom */
+  .swiper-pagination-bullet:not(.swiper-pagination-bullet-active) {
+    opacity: 0.9; /* Opacity untuk bullet pagination yang tidak aktif */
+  }
+  
+  /* Mengatur warna ikon next button menjadi kuning */
+  .swiper-button-next {
+    margin: 0 20px 0 20px;
+    color: yellow !important; /* Warna kuning untuk ikon next */
+  }
+  
+  /* Mengatur warna ikon previous button (back) menjadi kuning */
+  .swiper-button-prev {
+
+    margin: 0 20px 0 20px;
+    color: yellow !important; /* Warna kuning untuk ikon previous */
+  }
+  
+  /* Jika Anda ingin ikon next menjadi kuning dan lebih besar */
+  .swiper-button-next::after {
+    font-weight: bold;
+    font-size: 24px; /* Menambah ukuran ikon jika diinginkan */
+    color: yellow !important; /* Warna kuning untuk ikon next */
+  }
+  
+  /* Jika Anda ingin ikon previous menjadi kuning dan lebih besar */
+  .swiper-button-prev::after {
+    font-weight: bold;
+    font-size: 24px; /* Menambah ukuran ikon jika diinginkan */
+    color: yellow !important; /* Warna kuning untuk ikon previous */
+  }
+  
+  
