@@ -14,9 +14,9 @@
       >
         <div class="text-left" data-aos="fade-right" data-aos-duration="1000">
           <h3 class="text-6xl md:text-7xl font-bold text-yellow-400 mt-2">
-           GOING GlOBAL
+           GOING <span class="text-white"><br>GlOBAL</span>
           </h3>
-          <p class="text-white text-2xl mt-4 max-w-2xl">
+          <p class="text-tosca text-2xl mt-4 max-w-2xl">
             Preparing Brighter and More Innovative Human Capital to Shape a Better and Sustainable Future
           </p>
         </div>

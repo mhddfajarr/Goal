@@ -74,7 +74,7 @@
               <li>Meet The Expert</li>
               <li>CEO Talk</li>
               <li>
-                From Zero To Hero <br />(Inspirational Case <br>Study  From  Pioneers and Heirs)
+                From Zero To Hero <br />(Inspriational Case Study <br> from Highly Achieving Individual)
               </li>
             </ul>
           </div>
@@ -104,14 +104,14 @@
             <h2
               class="text-lg font-semibold  text-yellow-300"
             >
-              Site Visite:
+              Site Visit:
             </h2>
             <ul
               class="list-disc pl-5 text-base font-normal text-gray-50"
             >
               <li>Government</li>
               <li>Specific Industries/Companies</li>
-              <li>Additional Knwoladge-relevant Detination</li>
+              <li>Additional destination related to <br> knowledge sector</li>
             </ul>
           </div>
         </li>

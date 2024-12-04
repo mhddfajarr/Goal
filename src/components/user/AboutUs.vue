@@ -11,7 +11,7 @@
               About Goal
             </h3>
             <p class="mb-4 text-gray-700 text-base md:text-lg">
-              Goal is an educational organization focused on enhancing the nation's quality of life by providing accessible, high-quality learning. It offers three main programs: a basic and secondary education program for academic excellence and character development, a professional bootcamp for in-demand workforce skills, and a global leadership program to develop future leaders. Through these initiatives, Goal aims to nurture well-rounded individuals who contribute to national and global progress.
+              "Goal is an educational program focused on enhancing the nation's future generation by providing accessible, experiential and high-quality learning. We offer three main programs: most up to date and high demand skill training with character development, immersive site visit, and a global leadership program to develop future leaders. Through these initiatives, Going Global aims to nurture well-rounded individuals who contribute to national and global progress."
             </p>
           </div>
           <div class="lg:w-1/2 mt-8 lg:mt-0">
@@ -33,8 +33,8 @@
       <!-- Overlay -->
       <div class="absolute inset-0 bg-black opacity-40"></div>
       <!-- Content on top of overlay -->
-      <div class="relative bg-primary p-6 rounded">
-        <h2 class="text-yellow-300 md:text-5xl text-3xl font-bold mb-4">
+      <div class="relative bg-black bg-opacity-70 p-6 rounded">
+        <h2 class="text-tosca md:text-5xl text-3xl font-bold mb-4">
           Main Mission
         </h2>
         <h2 class="text-lg md:text-2xl  text-white mb-4 font-semibold">
@@ -46,15 +46,15 @@
     <div class="p-8 md:px-28 md:py-12 bg-white">
   <div class="p-6 flex flex-col md:flex-row gap-12">
     <!-- Kolom "Why?" -->
-    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
-      <h3 class="text-2xl md:text-4xl font-bold text-blue-900 text-center mb-6">Why?</h3>
+    <div class="flex-1 border rounded-md p-8 bg-bla shadow-md hover:border-2" data-aos="fade-up">
+      <h3 class="text-2xl md:text-4xl font-bold text-tosca text-center mb-6">Why?</h3>
       <p class="text-gray-600 text-lg md:text-xl text-center">
         Opportunity to be outstanding human capital should be for everyone
       </p>
     </div>
     <!-- Kolom "Problems" -->
     <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
-      <h3 class="text-2xl md:text-4xl font-bold text-blue-900 mb-4 text-center">Problems</h3>
+      <h3 class="text-2xl md:text-4xl font-bold text-tosca mb-4 text-center">Problems</h3>
       <p class="text-gray-600 text-lg md:text-xl">
         We’ve served over a hundred educational programs and counting, and the
         response remains the same:
