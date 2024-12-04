@@ -42,7 +42,7 @@
         </div>
   
         <!-- Baris kedua (sudah benar) -->
-        <div class="grid grid-cols-1  md:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1  md:grid-cols-2 gap-8">
           <div
             v-for="(item, index) in secondRowImages"
             :key="'second-row-' + index"
