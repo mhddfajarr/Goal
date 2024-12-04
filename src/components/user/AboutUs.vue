@@ -7,7 +7,7 @@
           data-aos="fade-up"
         >
           <div class="lg:w-1/2 lg:pl-20">
-            <h3 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">
+            <h3 class="text-3xl md:text-4xl font-bold text-tosca mb-4">
               About Goal
             </h3>
             <p class="mb-4 text-gray-700 text-base md:text-lg">
@@ -34,7 +34,7 @@
       <div class="absolute inset-0 bg-black opacity-40"></div>
       <!-- Content on top of overlay -->
       <div class="relative bg-black bg-opacity-70 p-6 rounded">
-        <h2 class="text-tosca md:text-5xl text-3xl font-bold mb-4">
+        <h2 class="text-yellow-300 md:text-5xl text-3xl font-bold mb-4">
           Main Mission
         </h2>
         <h2 class="text-lg md:text-2xl  text-white mb-4 font-semibold">
