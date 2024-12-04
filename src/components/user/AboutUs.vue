@@ -43,28 +43,40 @@
       </div>
     </div>
 
-    <div class="p-8 md:px-28 md:py-12 bg-white">
-  <div class="p-6 flex flex-col md:flex-row gap-12">
+    <div class="p-8 md:px-28 md:py-12 bg-gradient-to-b from-gray-50 to-white">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
     <!-- Kolom "Why?" -->
-    <div class="flex-1 border rounded-md p-8 bg-bla shadow-md hover:border-2" data-aos="fade-up">
-      <h3 class="text-2xl md:text-4xl font-bold text-tosca text-center mb-6">Why?</h3>
-      <p class="text-gray-600 text-lg md:text-xl text-center">
-        Opportunity to be outstanding human capital should be for everyone
-      </p>
-    </div>
+    <div
+  class="flex flex-col items-center border rounded-lg p-8 bg-white shadow-lg hover:shadow-2xl transition-shadow duration-300"
+  data-aos="fade-up"
+>
+  <!-- Wrapper untuk ikon dan teks -->
+  <div class="flex items-center justify-center gap-4 mb-6">
+    <h3 class="text-3xl md:text-4xl font-bold text-tosca text-center">Why?</h3>
+  </div>
+  <!-- Konten deskripsi -->
+  <p class="text-gray-600 text-lg md:text-xl text-center">
+    Opportunity to be outstanding human capital should be for everyone
+  </p>
+</div>
+
+
     <!-- Kolom "Problems" -->
-    <div class="flex-1 border rounded-md p-8 bg-white shadow-md hover:border-2" data-aos="fade-up">
-      <h3 class="text-2xl md:text-4xl font-bold text-tosca mb-4 text-center">Problems</h3>
-      <p class="text-gray-600 text-lg md:text-xl">
-        We’ve served over a hundred educational programs and counting, and the
-        response remains the same:
-        <br />
-        the call for more relevant skillset needed by the market beyond the university
-        curriculum.
+    <div
+      class="flex flex-col items-start border rounded-lg p-8 shadow-lg hover:shadow-2xl transition-shadow duration-300"
+      data-aos="fade-up"
+    >
+      <h3 class="text-3xl md:text-4xl font-bold text-tosca mb-4">Problems</h3>
+      <p class="text-gray-600 text-lg md:text-xl leading-relaxed">
+        We’ve served over a hundred educational programs and counting, and the response remains the same:
+        <span class="font-semibold text-tosca"><br>
+          the call for more relevant skillset needed by the market beyond the university curriculum.
+        </span>
       </p>
     </div>
   </div>
 </div>
+
 
   </section>
 </template>
