@@ -24,11 +24,11 @@
         </div>
         <div class="mb-2 flex items-start">
           <i class="fas fa-phone-alt mr-2 mt-1"> </i>
-          <p>Telepon 1: (+62-21) 380-0902</p>
+          <p>Telepon : (+62) 81360090884</p>
         </div>
         <div class="mb-2 flex items-start">
           <i class="fas fa-fax mr-2 mt-1"> </i>
-          <p>Fax 1: (+62-21) 351-8814</p>
+          <p>Fax : - </p>
         </div>
         <div class="mb-2 flex items-start">
           <i class="fas fa-envelope mr-2 mt-1"> </i>
