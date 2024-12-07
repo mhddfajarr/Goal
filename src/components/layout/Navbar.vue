@@ -8,7 +8,7 @@
     <div class="container mx-auto flex justify-between items-center relative">
       <!-- Logo -->
       <a href="/">
-        <img src="../../assets/image/logo.png" alt="LOGO" class="h-12 w-auto" />
+        <img src="../../assets/image/ggNav.png" alt="LOGO" class="h-14 w-auto" />
       </a>
 
       <!-- Navbar Links -->

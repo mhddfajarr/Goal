@@ -8,8 +8,8 @@
       <div class="flex flex-col items-center justify-center">
         <img
   alt="Google logo"
-  class="mb-4 w-36"
-  src="../../assets/image/logo.png"
+  class="mb-4 w-56"
+  src="../../assets/image/ggNav.png"
 />
 
       </div>
